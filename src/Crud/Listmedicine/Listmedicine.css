@@ -1,0 +1,10 @@
+.heading{
+    padding-top: 4rem;
+    text-align: center;
+    font-weight: 700;
+}
+.input-group {
+    display: flex;
+    justify-content: space-between;
+
+}

@@ -1,0 +1,29 @@
+
+/* .btn-back{
+    margin-top: 4rem;
+    margin-left: 4rem;
+} */
+    
+ 
+  
+  .addmed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+   /* Adjust the width of the card */
+  }
+  
+  .card-add{
+    width: 40%; /* Ensure the card fills its container */
+  }
+  .button{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.card-view {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Add shadow effect */
+}

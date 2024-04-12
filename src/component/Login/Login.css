@@ -1,0 +1,17 @@
+.card-log{
+    width: 80%;
+   
+    
+}
+
+.table-warp{
+    display: flex;
+    justify-content: center;
+    margin-top: 8rem;
+}
+
+.center-btn{
+    display: flex;
+    justify-content: center;
+    
+}

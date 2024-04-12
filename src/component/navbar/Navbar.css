@@ -1,0 +1,10 @@
+
+.navbar-brand{
+    color: white;
+}
+
+.side{
+    display: flex;
+    justify-content: space-between;
+   
+}
